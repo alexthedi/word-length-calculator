@@ -1,0 +1,35 @@
+body{
+	background-color: gray;
+}
+input{
+	margin-top: 100px;
+	margin-left: 200px;
+	width: 350px;
+	height: 50px;
+	display: block;
+	padding-left: 395px;
+}
+#output{
+	margin-left: 400px;
+	width: 100px;
+	background: lightblue;
+	margin-top: 50px;
+}
+#button{
+	width: 350px;
+	height: 85px;
+	color: white;
+	background-color: blue;
+	border-style: double;
+	border-radius: 20px;
+	margin-left: 385px;
+	margin-top: 100px;
+}
+h1{
+	text-align: center;
+	color: white;
+	margin-top: 50px;
+}
+
+
+
